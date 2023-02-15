@@ -1,0 +1,9 @@
+This repository contains the lab assignments and Research project for the Computer Vision course. All assignments are written in C++.
+
+Assignment 1 - Image manipulation  including importing, exporting, cropping, banding and averaging.
+
+Assignment 2 - Butterworth low pass filter and Fast Fourier Transform.
+
+Assignment 3 - Sobel edge detector and Gaussian Low Pass Filter.
+
+Research Project - Analysis of a research paper on Deep Learning Object Detection Methods.
